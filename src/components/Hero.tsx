@@ -49,7 +49,7 @@ export const Hero = () => {
                 >
                     <span className="flex items-center gap-2 bg-slate-100 dark:bg-slate-800/50 px-4 py-2 rounded-lg">
                         <span className="material-symbols-outlined text-primary text-base">school</span>
-                        3º Período Ciência da Computação (Wyden)
+                        Estudante de Ciência da Computação
                     </span>
                     <span className="flex items-center gap-2 bg-slate-100 dark:bg-slate-800/50 px-4 py-2 rounded-lg">
                         <span className="material-symbols-outlined text-primary text-base">terminal</span>

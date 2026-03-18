@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 
 const experiences = [
     {
-        period: '2024 — Presente',
+        period: '2024 — 2025',
         role: 'Analista de TI',
         company: 'Grupo GSH',
         description: 'Desenvolvimento de dashboards em Power BI para análise de performance operacional e suporte direto à tomada de decisão estratégica dos stakeholders.',
@@ -12,11 +12,11 @@ const experiences = [
             'Automação de relatórios, reduzindo horas de trabalho manual',
             'Integração de múltiplas fontes de dados via ETL',
         ],
-        current: true
+        current: false
     },
     {
         period: '2022 — 2024',
-        role: 'Estágio em Dados',
+        role: 'Estágio em TI',
         company: 'Grupo GSH',
         description: 'Atuação com extração de dados brutos de ERP, limpeza e transformação (ETL) para geração de relatórios de BI, otimizando fluxos de informação internos.',
         highlights: [
