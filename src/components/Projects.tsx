@@ -9,7 +9,7 @@ const projetosData = [
         titulo: "Análise de Vendas de Loja (EDA)",
         descricao: "Análise exploratória de dados de vendas de uma loja, identificando tendências, sazonalidade e insights para apoiar decisões comerciais estratégicas.",
         tags: ["Python", "EDA", "Pandas"],
-        imagem: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=800&auto=format&fit=crop",
+        imagem: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=800&auto=format&fit=crop",
         link: "https://colab.research.google.com/drive/1HENapCwQr_AwKKyi3Aqec_qQjF4zWYma?authuser=1#scrollTo=8kpCaBnFdNVf"
     },
     {
@@ -17,16 +17,16 @@ const projetosData = [
         titulo: "Análise de Clima",
         descricao: "Estudo exploratório de dados climáticos, analisando padrões meteorológicos, variações de temperatura e tendências sazonais com visualizações interativas.",
         tags: ["Python", "Análise", "Visualização"],
-        imagem: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop",
+        imagem: climateProjectImg,
         link: "https://colab.research.google.com/drive/1cuN7fyXgQXiWAZSClbqvqrbXEcQeoIWg"
     },
     {
         id: 3,
-        titulo: "Dashboard de Futebol",
-        descricao: "Dashboard interativo de métricas e análises de partidas usando dados de jogadores e resultados para identificar padrões e oportunidades táticas.",
-        tags: ["Python", "Streamlit", "Dashboard"],
-        imagem: "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?q=80&w=800&auto=format&fit=crop",
-        link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
+        titulo: "ETL de Saúde",
+        descricao: "Pipeline de ETL para processamento e transformação de dados de saúde, estruturando informações brutas de fontes médicas em bases limpas e prontas para análise.",
+        tags: ["ETL", "Python", "Pipeline"],
+        imagem: etlHealthImg,
+        link: "https://drive.google.com/file/d/1I-cc0FjPFR0lA43V-0kuLqBd7qPFfrEg/view?usp=sharing"
     },
 ];
 
