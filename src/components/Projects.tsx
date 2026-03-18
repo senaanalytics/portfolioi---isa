@@ -17,15 +17,15 @@ const projetosData = [
         titulo: "Análise de Clima",
         descricao: "Estudo exploratório de dados climáticos, analisando padrões meteorológicos, variações de temperatura e tendências sazonais com visualizações interativas.",
         tags: ["Python", "Análise", "Visualização"],
-        imagem: "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?q=80&w=800&auto=format&fit=crop",
+        imagem: "https://images.unsplash.com/photo-1564869736941-43a1f1d71519?q=80&w=800&auto=format&fit=crop",
         link: "https://colab.research.google.com/drive/1cuN7fyXgQXiWAZSClbqvqrbXEcQeoIWg"
     },
     {
         id: 3,
-        titulo: "ETL de Saúde",
-        descricao: "Pipeline de ETL para processamento e transformação de dados de saúde, estruturando informações brutas de fontes médicas em bases limpas e prontas para análise.",
-        tags: ["ETL", "Python", "Pipeline"],
-        imagem: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=800&auto=format&fit=crop",
+        titulo: "Dashboard de Futebol",
+        descricao: "Dashboard interativo de métricas e análises de partidas usando dados de jogadores e resultados para identificar padrões e oportunidades táticas.",
+        tags: ["Python", "Streamlit", "Dashboard"],
+        imagem: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
         link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
     },
 ];
