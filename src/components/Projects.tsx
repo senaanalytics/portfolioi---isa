@@ -18,7 +18,7 @@ const projetosData = [
         descricao: "Estudo exploratório de dados climáticos, analisando padrões meteorológicos, variações de temperatura e tendências sazonais com visualizações interativas.",
         tags: ["Python", "Análise", "Visualização"],
         imagem: climateProjectImg,
-        link: "https://drive.google.com/file/d/19AKea50zH2zx2BY_dbvbj4270N_05Sm2/view?usp=sharing"
+        link: "https://colab.research.google.com/drive/1cuN7fyXgQXiWAZSClbqvqrbXEcQeoIWg"
     },
     {
         id: 3,
