@@ -24,7 +24,7 @@ const projetosData = [
     {
         id: 3,
         titulo: "Dashboard de Futebol",
-        descricao: "Dashboard interativo de futebol europeu em Python/Streamlit/Plotly, com 5 ligas e +12.000 jogos (2014-2020). Exibe rankings, distribuição de resultados, xGoals, PPDA e análise individual de times.",
+        descricao: "Dashboard interativo de futebol europeu com Python e Streamlit, analisando mais de 12.000 jogos de 5 ligas (2014–2020) com métricas como xGoals, rankings e desempenho por equipe.",
         tags: ["Python", "Streamlit", "Dashboard"],
         imagem: soccerProjectImg,
         link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
