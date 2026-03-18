@@ -9,7 +9,7 @@ const projetosData = [
         titulo: "Análise de Vendas de Loja (EDA)",
         descricao: "Análise exploratória de dados de vendas de uma loja, identificando tendências, sazonalidade e insights para apoiar decisões comerciais estratégicas.",
         tags: ["Python", "EDA", "Pandas"],
-        imagem: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=800&auto=format&fit=crop",
+        imagem: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=800&auto=format&fit=crop",
         link: "https://colab.research.google.com/drive/1HENapCwQr_AwKKyi3Aqec_qQjF4zWYma?authuser=1#scrollTo=8kpCaBnFdNVf"
     },
     {
@@ -25,7 +25,7 @@ const projetosData = [
         titulo: "Dashboard de Futebol",
         descricao: "Dashboard interativo de métricas e análises de partidas usando dados de jogadores e resultados para identificar padrões e oportunidades táticas.",
         tags: ["Python", "Streamlit", "Dashboard"],
-        imagem: etlHealthImg,
+        imagem: "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?q=80&w=800&auto=format&fit=crop",
         link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
     },
 ];
