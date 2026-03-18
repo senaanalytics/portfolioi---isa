@@ -3,6 +3,27 @@ import { motion } from 'motion/react';
 
 const certificates = [
     {
+        title: 'Microsoft Power BI para Business Intelligence',
+        issuer: 'Data Science Academy',
+        hours: '72 horas',
+        icon: 'bar_chart',
+        color: 'from-indigo-500 to-violet-500'
+    },
+    {
+        title: 'Fundamentos de Data Science e inteligência artificial',
+        issuer: 'Data Science Academy',
+        hours: '24 horas',
+        icon: 'insights',
+        color: 'from-teal-500 to-cyan-500'
+    },
+    {
+        title: 'Introdução a análise de dados com SQL',
+        issuer: 'DIO.ME',
+        hours: '12 horas',
+        icon: 'storage',
+        color: 'from-sky-500 to-indigo-500'
+    },
+    {
         title: 'Introdução a ciência de dados com Python',
         issuer: 'DIO.ME',
         hours: '13 horas',
