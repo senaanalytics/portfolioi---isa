@@ -50,6 +50,13 @@ const certificates = [
         hours: '10 horas',
         icon: 'smart_toy',
         color: 'from-emerald-500 to-teal-500'
+    },
+    {
+        title: 'Building with the Claude API',
+        issuer: 'ANTHROPIC',
+        hours: '10 horas',
+        icon: 'build',
+        color: 'from-blue-500 to-indigo-500'
     }
 ];
 
