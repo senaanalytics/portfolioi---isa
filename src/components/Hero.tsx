@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 
 export const Hero = () => {
     return (
-        <section className="relative min-h-screen flex items-center justify-center overflow-hidden section-padding">
+        <section className="relative min-h-[80vh] sm:min-h-screen flex items-center justify-center overflow-hidden section-padding">
             {/* Background Elements */}
             <div className="absolute inset-0 -z-10">
                 <div className="absolute top-1/3 left-1/4 w-96 h-96 bg-primary/15 rounded-full blur-[120px] animate-pulse-slow"></div>
@@ -26,7 +26,7 @@ export const Hero = () => {
                     initial={{ opacity: 0, y: 30 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8, delay: 0.2 }}
-                    className="text-6xl md:text-8xl font-black tracking-tighter mb-6 leading-tight"
+                    className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black tracking-tighter mb-6 leading-tight"
                 >
                     Isaque Sena <br />
                     <span className="text-gradient">Analista de Dados</span>
@@ -36,7 +36,7 @@ export const Hero = () => {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8, delay: 0.4 }}
-                    className="text-xl md:text-2xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto leading-relaxed mb-10"
+                    className="text-base sm:text-lg md:text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto leading-relaxed mb-10"
                 >
                     Transformando dados complexos em <span className="text-slate-900 dark:text-white font-semibold">decisões estratégicas</span> e insights de alto impacto.
                 </motion.p>
