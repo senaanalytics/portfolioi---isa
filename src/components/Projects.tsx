@@ -9,7 +9,7 @@ const projetosData = [
         titulo: "Análise de Vendas de Loja (EDA)",
         descricao: "Análise exploratória de dados de vendas de uma loja, identificando tendências, sazonalidade e insights para apoiar decisões comerciais estratégicas.",
         tags: ["Python", "EDA", "Pandas"],
-        imagem: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=800&auto=format&fit=crop",
+        imagem: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=800&auto=format&fit=crop",
         link: "https://colab.research.google.com/drive/1HENapCwQr_AwKKyi3Aqec_qQjF4zWYma?authuser=1#scrollTo=8kpCaBnFdNVf"
     },
     {
@@ -17,7 +17,7 @@ const projetosData = [
         titulo: "Análise de Clima",
         descricao: "Estudo exploratório de dados climáticos, analisando padrões meteorológicos, variações de temperatura e tendências sazonais com visualizações interativas.",
         tags: ["Python", "Análise", "Visualização"],
-        imagem: climateProjectImg,
+        imagem: "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?q=80&w=800&auto=format&fit=crop",
         link: "https://colab.research.google.com/drive/1cuN7fyXgQXiWAZSClbqvqrbXEcQeoIWg"
     },
     {
@@ -25,8 +25,8 @@ const projetosData = [
         titulo: "ETL de Saúde",
         descricao: "Pipeline de ETL para processamento e transformação de dados de saúde, estruturando informações brutas de fontes médicas em bases limpas e prontas para análise.",
         tags: ["ETL", "Python", "Pipeline"],
-        imagem: etlHealthImg,
-        link: "https://drive.google.com/file/d/1I-cc0FjPFR0lA43V-0kuLqBd7qPFfrEg/view?usp=sharing"
+        imagem: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=800&auto=format&fit=crop",
+        link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
     },
 ];
 
