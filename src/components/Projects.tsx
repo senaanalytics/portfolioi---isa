@@ -22,11 +22,11 @@ const projetosData = [
     },
     {
         id: 3,
-        titulo: "ETL de Saúde",
-        descricao: "Pipeline de ETL para processamento e transformação de dados de saúde, estruturando informações brutas de fontes médicas em bases limpas e prontas para análise.",
-        tags: ["ETL", "Python", "Pipeline"],
+        titulo: "Dashboard de Futebol",
+        descricao: "Dashboard interativo de métricas e análises de partidas usando dados de jogadores e resultados para identificar padrões e oportunidades táticas.",
+        tags: ["Python", "Streamlit", "Dashboard"],
         imagem: etlHealthImg,
-        link: "https://drive.google.com/file/d/1I-cc0FjPFR0lA43V-0kuLqBd7qPFfrEg/view?usp=sharing"
+        link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
     },
 ];
 
