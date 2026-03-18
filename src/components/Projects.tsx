@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'motion/react';
 import climateProjectImg from '../assets/climate-project.png';
 import etlHealthImg from '../assets/etl-health-project.png';
+import soccerProjectImg from '../assets/soccer-project.png';
 
 const projetosData = [
     {
@@ -23,9 +24,9 @@ const projetosData = [
     {
         id: 3,
         titulo: "Dashboard de Futebol",
-        descricao: "Dashboard interativo de futebol europeu em Python/Streamlit/Plotly, com 5 ligas e +12.000 jogos (2014-2020). Exibe rankings, distribuição de resultados, xGoals, PPDA e análise individual de times."
+        descricao: "Dashboard interativo de futebol europeu em Python/Streamlit/Plotly, com 5 ligas e +12.000 jogos (2014-2020). Exibe rankings, distribuição de resultados, xGoals, PPDA e análise individual de times.",
         tags: ["Python", "Streamlit", "Dashboard"],
-        imagem: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?q=80&w=800&auto=format&fit=crop",
+        imagem: soccerProjectImg,
         link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
     },
 ];
