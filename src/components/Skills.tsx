@@ -14,8 +14,8 @@ const skillCategories = [
         ]
     },
     {
-        title: 'Engenharia de Dados',
-        icon: 'rebase_edit',
+        title: 'Análise de Dados',
+        icon: 'analytics',
         color: 'from-indigo-500 to-sky-500',
         skills: [
             { name: 'Python', level: 'Intermediário' },
