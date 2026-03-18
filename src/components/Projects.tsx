@@ -25,7 +25,7 @@ const projetosData = [
         titulo: "Dashboard de Futebol",
         descricao: "Dashboard interativo de métricas e análises de partidas usando dados de jogadores e resultados para identificar padrões e oportunidades táticas.",
         tags: ["Python", "Streamlit", "Dashboard"],
-        imagem: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        imagem: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?q=80&w=800&auto=format&fit=crop",
         link: "https://isaquesena-portfolio-dashfut.streamlit.app/"
     },
 ];
